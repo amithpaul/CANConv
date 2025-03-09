@@ -1,0 +1,425 @@
+PGN,Message Name,"Source
+Address",SPN,Signal Name,Usage,Notes
+65198,Air Supply Pressure,23,1087,"Service Brake Circuit 1
+Air Pressure","Convention-
+al Since
+2007",
+,,,1088,"Service Brake Circuit 2
+Air Pressure",,
+,,,46,"Pneumatic Supply
+Pressure",,
+65269,Ambient Conditions,"0, 17, 23",171,"Ambient Air
+Temperature","SA 23 Since
+2007 & SA
+0,17 since
+2010","23 – Sensor
+Source"
+,,0,108,Barometric Pressure,Since 2007,
+,,,172,"Engine Air Intake
+Temperature",,
+64891,"Aftertreatment 1
+Service",0,3719,"Aftertreatment Diesel
+Particulate Filter 1
+Soot Load Percent",Since 2007,
+,,,3720,"Aftertreatment Diesel
+Particulate Filter 1
+AshLoad Percent",,
+65110,"Aftertreatment 1
+SCR Reagent Tank
+1 Information",0,1761,"Aftertreatment 1 SCR
+Catalyst Tank Level",Since 2010,
+,,,3517,"Aftertreatment 1 SCR
+Catalyst tank Level 2",,
+,,,5245,"Aftertreatment 1 DEF
+Tank Low Level
+Indicator",,
+,,,5246,"Aftertreatment SCR
+Operator Inducement
+Severity",,
+64946,"Aftertreatment 1 In-
+termediate Gas",0,3251,"Aftertreatment 1 Diesel
+Particulate Filter Differ-
+ential Pressure",Since 2007,
+64947,"Aftertreatment 1
+Outlet Gas 2",0,3246,"Aftertreatment 1 Diesel
+Particulate Filter Outlet
+Gas Temperature",Since 2007,
+64948,"Aftertreatment 1 in-
+take Gas 2",0,3242,"Aftertreatment 1 Diesel
+Particulate Filter Intake
+Gas Temperature",Since 2007,
+65265,"Cruise Control/Ve-
+hicle Speed",17,84,"Wheel Based Vehicle
+Speed",All,
+,,,86,"Cruise Control Set
+Speed",,
+,,,595,Cruise Control Active,,
+,,,596,"Cruise Control Enable
+Switch",,
+,,,597,Brake Switch,,
+,,,598,Clutch Switch,,
+,,,599,"Cruise Control Set
+Switch",,
+,,,600,"Cruise Control Coast
+(Decelerate) Switch",,
+,,,601,"Cruise Control Re-
+sume Switch",,
+,,,602,"Cruise Control Accel-
+erate Switch",,
+,,,976,PTO Governor State,,"Reflects en-
+gine speed
+control state
+not PTO in-
+put or output
+state."
+,,,527,Cruise Control States,,
+,,,70,Parking Brake Switch,,
+57344,Cab Message 1,23,3695,"Diesel Particulate Fil-
+ter Regeneration Inhib-
+it Switch",Since 2007,
+,,,3696,"Diesel Particulate Fil-
+ter Regeneration
+Force Switch",,
+,,,1856,Seat Belt Switch,Since 2010,
+65276,Dash Display,23,96,Fuel Level 1,Since 2007,
+65226,DM1,0,,,Since 2007,
+64952,DM26,0,,,Since 2010,
+64892,"Diesel Particulate
+Filter Control 1",0,3697,"Diesel Particulate Fil-
+ter Lamp Command",Since 2007,
+,,,3698,"Exhaust System High
+Temperature Lamp
+Command",,
+,,,3699,"Diesel Particulate Fil-
+ter Passive Regenera-
+tion Status",,
+,,,3700,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Status",,
+,,,3701,"Diesel Particulate Fil-
+ter Status",,
+,,,3702,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Status",,
+,,,3703,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Inhibit Switch",,
+,,,3706,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+PTO Active",,
+,,,3707,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Accelerator Pedal Off
+Idle",,
+,,,3709,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Vehicle Speed Above
+Allowed Speed",,
+,,,3710,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Parking Brake Not Set",,
+,,,3711,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Low Exhaust Gas
+Temperature",,
+,,,3712,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+System Fault Active",,
+64892,"Diesel Particulate
+Filter Control 1",0,3714,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Temporary System
+Lockout",Since 2007,
+,,,3715,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Permanent System
+Lockout",,
+,,,3716,"Diesel Particulate Fil-
+ter Active Regenera-
+tion Inhibited Due to
+Engine Not Warmed
+Up",,
+,,,3698,"Exhaust System High
+Temperature Lamp
+Command",,
+61441,"Electronic Brake
+Controller 1",11,561,"ASR Engine Control
+Active","Per ABS
+type",
+,,,562,"ASR Brake Control
+Active","Per ABS
+type",
+,,,563,"Anti-Lock Braking
+(ABS) Active",,
+,,,1121,EBS Brake Switch,Not Used,
+,,,521,Brake Pedal Position,Not Used,
+,,,575,ABS Off-road Switch,"Per ABS
+type",
+,,,576,ASR Off-road Switch,"Per ABS
+type",
+,,,577,"ASR ""Hill Holder""
+Switch",With I-shift,
+,,,1238,"Traction Control Over-
+ride Switch","Per ABS
+type",
+,,,1243,ABS Fully Operational,,
+,,,1438,"ABS/EBS Amber
+Warning Signal (Pow-
+ered Vehicle)",,
+,,,1793,"ATC/ASR Information
+Signal","Per ABS
+type",
+,,,1481,"Source Address of
+Controlling Device for
+Brake Control","Per ABS
+type",
+,,,1836,Trailer ABS Status,"Per ABS
+type",
+,,,1792,"Tractor-Mounted
+Trailer ABS Warning
+Signal","Per ABS
+type",
+65215,"Wheel Speed
+Information",11,904,Front Axle Speed,All,
+,,,905,"Relative Speed; Front
+Axle, Left Wheel",,
+,,,906,"Relative Speed; Front
+Axle, Right Wheel",,
+,,,907,"Relative Speed; Rear
+Axle #1, Left Wheel",,
+,,,908,"Relative Speed; Rear
+Axle #1, Right Wheel",,
+,,,909,"Relative Speed; Rear
+Axle #2, Left Wheel",,
+,,,910,"Relative Speed; Rear
+Axle #2, Right Wheel",,
+64964,"Electronic Brake
+Controller 5",11,2912,Hill Holder Mode,"With I-Shift/
+mDrive",
+61444,"Electronic Engine
+Controller 1",0,899,Engine Torque Mode,All,"20 ms fixed
+rate"
+,,,512,"Driver's Demand En-
+gine - Percent Torque",,
+,,,513,"Actual Engine - Per-
+cent Torque",,
+,,,190,Engine Speed,,
+,,,1483,"Source Address of
+Controlling Device for
+Engine Control",,
+,,,1675,Engine Starter Mode,,
+61443,"Electronic Engine
+Controller 2",0,558,,All,
+,,,91,"Accelerator Pedal Po-
+sition 1",,"from SA 17
+with
+Cummins"
+,,,92,"Engine Percent Load
+At Current Speed",,
+65247,"Electronic Engine
+Controller 3",0,514,"Nominal Friction - Per-
+cent Torque",All,
+64981,"Electronic Engine
+Controller 5",,2791,"Engine Exhaust Gas
+Recirculation 1
+(EGR1) Valve Control",Since 2007,
+,,,2795,"Engine Variable Ge-
+ometry Turbocharger
+(VGT) 1 Actuator
+Position",All,
+65263,"Engine Fluid Level/
+Pressure 1",0,94,"Engine Fuel Delivery
+Pressure",All,
+,,,98,Engine Oil Level,,
+,,,100,Engine Oil Pressure,,
+,,,101,"Engine Crankcase
+Pressure",,
+,,,111,Engine Coolant Level,,
+65251,"Engine Configura-
+tion 1",0,,,30 bytes,
+61440,"Electronic Retarder
+Controller 1",15,900,Retarder Torque Mode,"SA 15 be-
+fore 2007",
+,,,520,"Actual Retarder - Per-
+cent Torque",,
+65262,"Engine Temperature
+1",,110,"Engine Coolant
+Temperature",All,
+,,,174,"Engine Fuel Tempera-
+ture 1",,
+,,,175,"Engine Oil Tempera-
+ture 1",,
+61442,"Electronic Transmis-
+sion Controller 1",3,161,"Transmission Input
+Shaft Speed","Automated
+transmis-
+sions",
+,,,560,"Transmission Driveline
+Engaged",,
+,,,573,"Transmission Torque
+Converter Lockup
+Engaged",,
+,,,574,"Transmission Shift In
+Process",,
+,,,4816,"Transmission Torque
+Converter Lockup
+Transition in Process",,
+,,,191,"Transmission Output
+Shaft Speed",,"SA 17 with
+Cummins"
+,,,522,Percent Clutch Slip,,
+,,,606,"Engine Momentary
+Overspeed Enable",,
+,,,607,"Progressive Shift
+Disable",,
+,,,5015,"Momentary Engine
+Maximum Power
+Enable",,
+61445,"Electronic Transmis-
+sion Controller 2",3,524,"Transmission Selected
+Gear","Automated
+transmis-
+sions",
+,,,523,"Transmission Current
+Gear",,
+,,,526,"Transmission Actual
+Gear Ratio",,
+65134,"High Resolution
+Wheel Speed",11,1592,"Front Axle, Left Wheel
+Speed",Since 2007,
+,,,1593,"Front Axle, Right
+Wheel Speed",,
+,,,1594,"Rear Axle, Left Wheel
+Speed",,
+,,,1595,"Rear Axle, Right
+Wheel Speed",,
+65270,"Intake/Exhaust Con-
+ditions 1",0,173,"Engine Exhaust Gas
+Temperature","Since 2007
+SA 23 from
+2004-2007",
+,,,102,"Engine Intake Manifold
+#1 Pressure",Since 2007,
+,,,105,"Engine Intake Manifold
+1 Temperature",,
+,,,106,"Engine Air Intake
+Pressure",,
+,,,107,"Engine Air Filter 1 Dif-
+ferential Pressure",,
+65266,"Fuel Economy
+(Liquid)",0,183,Engine Fuel Rate,Since 2007,
+,,,184,"Engine Instantaneous
+Fuel Economy",,
+,,,185,"Engine Average Fuel
+Economy",,
+65254,Time/Date,23,959,Seconds,All,
+,,,960,Minutes,,UTC/GMT
+,,,961,Hours,,UTC/GMT
+,,,962,Day,,
+,,,963,Month,,
+,,,964,Year,,
+,,,1601,Local minute offset,,Display clock
+,,,1602,Local hour offset,,Display clock
+65272,"Transmission Fluids
+1",3,177,"Transmission Oil
+Temperature","Automated
+Transmis-
+sions",
+0,"Torque/Speed Con-
+trol 1","3,11,17,42,
+230",695,"Engine Override Con-
+trol Mode","By options –
+engine
+brake,
+transmis-
+sion, etc.",
+,,,898,"Engine Requested
+Speed/Speed Limit",,
+,,,518,"Engine Requested Tor-
+que/Torque Limit",,
+61449,"Vehicle Dynamic
+Stability Control 2",11,1807,Steering Wheel Angle,"Trucks with
+stability
+control",
+,,,1808,Yaw Rate,,
+,,,1809,Lateral Acceleration,,
+,,,1810,"Longitudinal
+Acceleration",,
+,,,1811,"Steering Wheel Turn
+Counter",,
+,,,1812,"Steering Wheel Angle
+Sensor Type",,
+65103,"Vehicle Dynamic
+Stability Control 1",11,1813,"VDC Information
+Signal","Trucks with
+stability
+control",
+,,,1814,VDC Fully Operational,,
+,,,1815,"VDC Brake Light
+Request",,
+,,,1816,"ROP Engine Control
+Active",,
+,,,1817,"YC Engine Control
+Active",,
+,,,1818,"ROP Brake Control
+Active",,
+,,,1819,"YC Brake Control
+Active",,
+65217,"High Resolution Ve-
+hicle Distance",23,917,"High Resolution Total
+Vehicle Distance",All,
+,,,918,"High Resolution Trip
+Distance",,
+65271,"Vehicle Electrical
+Power 1",0,158,"Keyswitch Battery
+Potential",Since 2007,
+65260,Vehicle Identification,0,237,"Vehicle Identification
+Number",Since 2010,
+65135,"Adaptive Cruise
+Control",42,1586,"Speed of Forward
+Vehicle",By option,
+,,,1587,"Distance to Forward
+Vehicle",,
+,,,1588,"Adaptive Cruise Con-
+trol Set Speed",,
+,,,1589,"Adaptive Cruise Con-
+trol Set Distance Mode",,
+,,,1590,"Adaptive Cruise Con-
+trol Mode",,
+,,,1796,"ACC Distance Alert
+Signal",,
+,,,1797,"ACC System Shutoff
+Warning",,
+,,,1798,ACC Target Detected,,
+,,,5022,"Forward Collision
+Warning",,
+65264,"Power Takeoff
+Information",17,980,"Engine PTO Governor
+Enable Switch",Mack,
+,,,984,"Engine PTO Governor
+Set Switch",,
+256,"Transmission Con-
+trol 1",11,681,"Transmission Gear
+Shift Inhibit Request","By ABS
+type with
+Automatic
+Transmis-
+sion",
+1024,"External Brake
+Request",3,2920,"External Acceleration
+Demand",I-Shift,
+,,,2914,XBR EBI Mode,,
+,,,2915,XBR Priority,,
+,,,2916,XBR Control Mode,,
+,,,3189,XBR Message Counter,,
+,,,3188,"XBR Message
+Checksum",,
