@@ -10,11 +10,10 @@ This creates a virtual environment named venv in your current directory.
 2️⃣ Activate the Virtual Environment
 
 On Windows (Command Prompt):
-venv\Scripts\activate
+    venv\Scripts\activate
 
 On Windows (PowerShell):
-
-venv\Scripts\Activate.ps1
+    venv\Scripts\Activate.ps1
 (If execution is restricted, run: Set-ExecutionPolicy Unrestricted -Scope Process)
 
 On macOS / Linux:
@@ -22,13 +21,13 @@ On macOS / Linux:
 source venv/bin/activate
 
 3️⃣ Install Dependencies
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 4️⃣ Deactivate the Virtual Environment
-When done, deactivate it using:
+    When done, deactivate it using:
 
-deactivate
+        deactivate
 
 After running your script, you can access the Dask dashboard (GUI) at:
 
